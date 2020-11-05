@@ -1,0 +1,11 @@
+{
+  "files.associations": {
+    "*.scons": "python",
+    "*.sco": "python",
+    "SConscript": "python",
+    "SConstruct": "python",
+    "wscript": "pyhton",
+    "cstdint": "cpp",
+    "xmemory0": "cpp"
+  }
+}
